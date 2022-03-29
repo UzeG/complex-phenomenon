@@ -17,7 +17,7 @@ function setup() {
         },
         mover: {
             maxSpeed: 10,
-            maxForce: .1
+            maxForce: .2
         },
         genetic: {
             target: target,
